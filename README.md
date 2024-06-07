@@ -2,7 +2,7 @@
 #### I'm a Full-Stack Developer working in Abidan, Côte-d'Ivoire 🇨🇮.
 
 - 🏢 I'm currently working at **@Djamo**, a fast growing fintech in Africa
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.dart`, `.figma`
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.dart`, `.figma`
 - 💅 Designed: [Web2vie](https://www.web2vie.com), [Wabeyi](https://wabeyi.net), and many products...
 - 🌱 Learning all about **System Design** and **Swift UI**
 - 💬 Ping me about **design**, **development**, **product**
