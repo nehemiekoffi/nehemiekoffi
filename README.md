@@ -6,7 +6,7 @@
 - 💅 Designed: [Web2vie](https://www.web2vie.com), [Wabeyi](https://wabeyi.net), and many products...
 - 🌱 Learning all about **System Design** and **Swift UI**
 - 💬 Ping me about **design**, **development**, **product**
-- 📫 Reach me: [nehemiekoffi@gmail.com](mailto:nehemiekoffi@gmail.com)
+- 📫 Reach me: [nehemiekoffi.com](https://nehemiekoffi.com)
 
 ### Skills
 
