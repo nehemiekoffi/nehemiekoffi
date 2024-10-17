@@ -7,7 +7,6 @@
 - 🌱 Learning all about **System Design** and **Swift UI**
 - 💬 Ping me about **design**, **development**, **product**
 - 📫 Reach me: [nehemiekoffi@gmail.com](mailto:nehemiekoffi@gmail.com)
-- ⚡️ Fun fact: I'm a huge fan of Spirituality
 
 ### Skills
 
